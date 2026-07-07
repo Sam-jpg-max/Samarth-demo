@@ -1,4 +1,4 @@
 # Samarth-demo
 This is my first Git Repository.
 <br>
-Author- Samarth Gurav
+Author- Samarth (Demo)
